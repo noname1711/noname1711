@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi mọi người 👋
 
 <!--
 **noname1711/noname1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
